@@ -20,7 +20,7 @@ Simple landing page dengan desain bersih dan interaktif.
 | Nama | Role | Contribution |
 | --- | --- | --- |
 | [Rizq Syafriano Valeant] | Project Initiator & Styling Engineer | Membuat repository, mengatur collaborator, membuat struktur HTML awal, styling CSS, dan Pull Request CSS |
-| [Satya Deco] | Script Engineer | Membuat interaktivitas JavaScript, menghubungkan script ke HTML, dan membuat Pull Request JavaScript |
+| [Satya Deco Ramadhan Wijanarko] | Script Engineer | Membuat interaktivitas JavaScript, menghubungkan script ke HTML, dan membuat Pull Request JavaScript |
 | [Najwa Delina Rahmah  ] | Reviewer & Documentation | Review Pull Request, membantu resolve conflict, dan dokumentasi project |
 
 ## What I Learned
