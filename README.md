@@ -19,9 +19,9 @@ Simple landing page dengan desain bersih dan interaktif.
 ## Contribution
 | Nama | Role | Contribution |
 | --- | --- | --- |
-| [Nama Kamu] | Project Initiator & Styling Engineer | Membuat repository, mengatur collaborator, membuat struktur HTML awal, styling CSS, dan Pull Request CSS |
-| [Nama Teman 1] | Script Engineer | Membuat interaktivitas JavaScript, menghubungkan script ke HTML, dan membuat Pull Request JavaScript |
-| [Nama Teman 2] | Reviewer & Documentation | Review Pull Request, membantu resolve conflict, dan dokumentasi project |
+| [Rizq Syafriano Valeant] | Project Initiator & Styling Engineer | Membuat repository, mengatur collaborator, membuat struktur HTML awal, styling CSS, dan Pull Request CSS |
+| [Satya Deco Ramadhan Wijanarko] | Script Engineer | Membuat interaktivitas JavaScript, menghubungkan script ke HTML, dan membuat Pull Request JavaScript |
+| [Najwa Delina Rahmah  ] | Reviewer & Documentation | Review Pull Request, membantu resolve conflict, dan dokumentasi project |
 
 ## What I Learned
 - Membuat repository dan branch menggunakan Git
