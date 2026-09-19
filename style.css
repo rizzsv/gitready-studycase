@@ -1,0 +1,51 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #172554;
+  background: #eff6ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  width: min(90%, 640px);
+  padding: 2rem;
+  text-align: center;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(23, 37, 84, 0.15);
+}
+
+h1 {
+  margin-top: 0;
+  color: #0066cc;
+}
+
+button {
+  padding: 0.75rem 1.25rem;
+  border: 0;
+  border-radius: 8px;
+  background: #0066cc;
+  color: #ffffff;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+button:hover,
+button:focus-visible {
+  background: #004c99;
+}
+
+#message {
+  min-height: 1.5rem;
+  font-weight: 700;
+}
